@@ -1,9 +1,8 @@
 ---
   links:
-    - title: Google Chrome Apps
-      url: "https://en.wikipedia.org/wiki/Google_Chrome_App"
-      desc: Floating belly up in over 1 year, Google Chrome Apps were hosted or packaged web applications that ran on the Google Chrome browser. It will be over 11 years old.
-      dateclose: "June 2021"
+    - title: Shreyaan's YouTube Channel
+      url: "https://www.shreyaan.online/"
+      desc: A Tech YouTube Channel
     - title: Blog
       url: "http://www.shreyaan.tech/"
       desc: Blog written by Shreyaan Vashishtha
@@ -13,5 +12,3 @@
    - title: Test2
      url: "example.org"
      desc: Hi
-     
-     
