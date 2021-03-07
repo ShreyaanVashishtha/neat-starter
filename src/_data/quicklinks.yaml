@@ -2,17 +2,17 @@
 links:
   - title: Google Chrome Apps
     url: "https://en.wikipedia.org/wiki/Google_Chrome_App"
-    desc: "Floating belly up in over 1 year, Google Chrome Apps were hosted or packaged web applications that ran on the Google Chrome browser. It will be over 11 years old."
+    desc: Floating belly up in over 1 year, Google Chrome Apps were hosted or packaged web applications that ran on the Google Chrome browser. It will be over 11 years old.
     dateclose: "June 2021"
   - title: Android Things
     url: "https://android-developers.googleblog.com/2019/02/an-update-on-android-things.html"
-    desc: "To be turned off in 10 months, Android Things was an Android-based embedded operating system (originally named Brillo) aimed to run on Internet of Things (IoT) devices. It will be over 6 years old."
+    desc: To be turned off in 10 months, Android Things was an Android-based embedded operating system (originally named Brillo) aimed to run on Internet of Things (IoT) devices. It will be over 6 years old.
     dateclose: "January 2022"
   - title: AngularJS
     url: "https://blog.angular.io/stable-angularjs-and-long-term-support-7e077635ee9c"
-    desc: '"Off with their heads!" in 10 months, AngularJS was a JavaScript open-source front-end web framework based on MVC pattern using a dependency injection technique. It will be about 11 years old.'
+    desc: "Off with their heads!" in 10 months, AngularJS was a JavaScript open-source front-end web framework based on MVC pattern using a dependency injection technique. It will be about 11 years old.
     dateclose: "December 2021"
  - title: Google Hangouts
     url: "https://arstechnica.com/gadgets/2019/01/the-great-google-hangouts-shutdown-begins-october-2019/"
-    desc: 'Sentenced to death in 4 months, Google Hangouts was a communication platform which included messages, video chat, and VOIP features. Execution scheduled "first half 2021". It will be over 8 years old.'
+    desc: Sentenced to death in 4 months, Google Hangouts was a communication platform which included messages, video chat, and VOIP features. Execution scheduled "first half 2021". It will be over 8 years old.
     dateclose: "June 2021"
