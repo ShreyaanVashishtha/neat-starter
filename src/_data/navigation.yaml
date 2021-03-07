@@ -1,10 +1,10 @@
 ---
 items:
   - text: Menu One
-    url: "www.shreyaan.online"
+    url: "https://www.shreyaan.online"
   - text: Menu Two
-    url: "www.shreyaanvashishtha.com"
+    url: "https://www.shreyaanvashishtha.com"
   - text: Menu Three
-    url: "www.shreyaan.shop"
+    url: "https://www.shreyaan.shop"
   - text: Blog
-    url: "www.shreyaan.tech"
+    url: "http://www.shreyaan.tech"
