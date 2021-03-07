@@ -3,6 +3,8 @@ links:
   - title: Shreyaan's YouTube Channel
     url: "https://www.shreyaan.online/"
     desc: A Tech YouTube Channel
+    dateopen: "2010-01-01"
+    dateclose: "2021-03-31"
   - title: Blog
     url: "http://www.shreyaan.tech/"
     desc: Blog written by Shreyaan Vashishtha
