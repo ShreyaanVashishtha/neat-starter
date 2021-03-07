@@ -8,11 +8,9 @@
       url: "http://www.shreyaan.tech/"
       desc: Blog written by Shreyaan Vashishtha
     - title: Test
-    - title: Android Things
       url: "https://android-developers.googleblog.com/2019/02/an-update-on-android-things.html"
       desc: To be turned off in 10 months, Android Things was an Android-based embedded operating system (originally named Brillo) aimed to run on Internet of Things (IoT) devices. It will be over 6 years old.
       dateclose: "January 2022"
    - title: Test
       url: "example.com"
       desc: Hello
-    - title: Test2
