@@ -1,14 +1,18 @@
 ---
   links:
-    - title: Shreyaan's YouTube Channel
-      url: "https://www.shreyaan.online/"
-      desc: A Tech YouTube Channel
-    - title: Blog
-      url: "http://www.shreyaan.tech/"
-      desc: Blog written by Shreyaan Vashishtha
-   - title: Test
-     url: "example.com"
-     desc: Hello
-   - title: Test2
-     url: "example.org"
-     desc: Hi
+    - title: Google Chrome Apps
+       url: "https://en.wikipedia.org/wiki/Google_Chrome_App"
+       desc: Floating belly up in over 1 year, Google Chrome Apps were hosted or packaged web applications that ran on the Google Chrome browser. It will be over 11 years old.
+       dateclose: "June 2021"
+     - title: Blog
+       url: "http://www.shreyaan.tech/"
+       desc: Blog written by Shreyaan Vashishtha
+     - title: Test
+     - title: Android Things
+       url: "https://android-developers.googleblog.com/2019/02/an-update-on-android-things.html"
+       desc: To be turned off in 10 months, Android Things was an Android-based embedded operating system (originally named Brillo) aimed to run on Internet of Things (IoT) devices. It will be over 6 years old.
+       dateclose: "January 2022"
+    - title: Test
+       url: "example.com"
+       desc: Hello
+     - title: Test2
